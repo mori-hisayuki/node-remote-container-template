@@ -1,7 +1,7 @@
 version: "3.2"
 services:
   nodejs:
-    container_name: webapp
+    container_name: nodejs
     # ホスト名を明示的に指定する
     hostname: localhost
     build:

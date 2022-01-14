@@ -7,7 +7,6 @@
 |  |--docker-compose.yml
 |  |--amd
 |     |--Dockerfile
-|--.WebApp // アプリケーション本体
 |--.gitignore
 |--.editorconfig
 |--README.md
@@ -30,15 +29,17 @@ AWS同様に`~/.ssh`ディレクトリをマウントしているため、接続
 - Vim
 - Git Graph
 - gitflow
-- vscode-icons
+- Material Icon Theme
 - indent-rainbow
 - Code Spell Checker
 - Tabnine AI Autocomplete
-- Live Server
+- Live Preview
 - Live Share
 - EditorConfig for VS Code
+- Thunder Client
 
 ### node用
+- JavaScript and TypeScript Nightly
 - Auto Rename Tag
 - ESLint
 - Prettier
